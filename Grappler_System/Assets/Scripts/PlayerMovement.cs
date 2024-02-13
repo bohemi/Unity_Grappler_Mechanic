@@ -65,7 +65,6 @@ public class PlayerMovement : MonoBehaviour
         else
         {
             rigid_body.drag = 0.0f;
-            //print("llllllllllllll");
         }
     }
 }
